@@ -17,5 +17,5 @@ tr:first-child td {
     
 }
 tr:nth-child(3) {
-   background: #ff0000;
+  color: red;
 }
