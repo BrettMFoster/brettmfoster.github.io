@@ -5,14 +5,16 @@ table {
    border: 1px solid black;
 }
 th, td {
-    padding: 10px;
+    padding: 15px;
 }
 tr {
   background-color:#FFF;
   color:#000;
   font-family: "Times New Roman", Times, serif;
-  font-size: 30px;
 }
 tr:first-child td {
     color: red;
+    font-size: 40px;
+    text-align: center;
+    
 }
