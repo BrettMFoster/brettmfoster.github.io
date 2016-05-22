@@ -5,10 +5,12 @@ table {
    border: 1px solid black;
 }
 th, td {
-    padding: 5px;
+    padding: 10px;
     text-align: left;
 }
 tr {
   background-color:#FFF;
   color:#000;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
 }
