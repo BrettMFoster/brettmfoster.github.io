@@ -14,5 +14,5 @@ tr {
   font-size: 30px;
 }
 tr:first-child td {
-    vertical-align: top;
+    color: red;
 }
