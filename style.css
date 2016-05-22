@@ -16,6 +16,6 @@ tr:first-child td {
     text-align: left;
     
 }
-tr:nth-child(3) {
+tr:nth-child(2) {
   color: red;
 }
